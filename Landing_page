@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="div">
+        <section class="para-top">
+          <h1>Selling online is</h1>
+          <h1>vital to business</h1>
+          <h1>growth.</h1>
+        </section>
+        <section class="para-mid">
+          <h4>2025 Grow Your</h4>
+          <h4>e-Commerce Conference</h4>
+        </section>
+        <section class="para-bottom">
+          <h6>September 16-18, 2023</h6>
+          <h6>Paragon One Plaza and Sky Garden</h6>
+        </section>
+      </div>
+      <div class="div2">
+        <section class="div2-top">
+          <button><p>Book now for early bird prices</p></button>
+        </section>
+        <section class="div2-mid">
+          <img src="images/Home.jpg" alt="img not available" />
+        </section>
+      </div>
+    </main>
+</body>
+</html>
