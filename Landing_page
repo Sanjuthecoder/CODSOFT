@@ -32,5 +32,29 @@
         </section>
       </div>
     </main>
+ <div class="div-about">
+      <section class="about-1">
+        <img
+          src="images/about.jpg"
+          alt="Image not available"
+          width="550px"
+          height="650px" />
+      </section>
+
+      <section class="about-2">
+        <p class="pa1">
+          <b
+            >The most awaited <br />e-commerce event <br />
+            is back!
+          </b>
+        </p>
+        <p class="pa2">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br />
+          Ipsum ratione nostrum facere aliquam sint pariatur sit harum <br />
+          nam aliquid tempora eaque voluptatibus possimus fugit, sunt ipsam
+          <br />assumenda voluptas sed tempore!
+        </p>
+      </section>
+    </div>
 </body>
 </html>
