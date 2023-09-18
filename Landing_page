@@ -106,6 +106,30 @@
         </p>
       </section>
     </div>
-
+  <div class="div-details">
+      <section class="details-2">
+        <p class="pd-1">
+          LESLIE BOATWRIGHT <br />
+          Head of Marketing <br />
+          The Hobbibox <br />September 16
+        </p>
+        <p class="pd-2">
+          Nicholas Newark <br />Director of Design <br />Studio Rallia
+          <br />September 17
+        </p>
+        <p class="pd-3">
+          Kin Gyun <br />
+          Founder and CEO <br />The Treasurebox Online <br />September 18
+        </p>
+      </section>
+      <section class="details-3">
+        <img
+          class="det-img"
+          src="images/contact.jpg"
+          alt="Image not available"
+          width="450px"
+          height="650px" />
+      </section>
+    </div>
 </body>
 </html>
